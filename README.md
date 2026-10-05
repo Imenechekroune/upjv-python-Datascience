@@ -1,8 +1,8 @@
 Markdown
 # Travaux Dirigés - Python & Data Science
 
-**Nom :** [Ton Prénom Ton Nom]  
-**Formation :** L3 / M1 Économie, UPJV  
+**Nom :** [Imene chekoune]  
+**Formation :**  M1 Économie, UPJV  
 **Cours :** Python pour la Data Science  
 
 ---
@@ -16,5 +16,5 @@ Ce dépôt contient l'ensemble de mes travaux dirigés (TD) réalisés dans le c
 
 | TD | Sujet | Statut |
 |---|---|---|
-| TD 1 | Introduction | ❌ En cours |
-| TD 2 | Concepts de base | ❌ En cours |
+| TD 1 | Introduction | ✅ |
+| TD 2 | Concepts de base | ✅ |
