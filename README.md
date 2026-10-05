@@ -15,8 +15,8 @@ Ce dépôt contient l'ensemble de mes travaux dirigés (TD) réalisés dans le c
 
 | TD | Sujet | Statut |
 |---|---|---|
-| TD 1 | Introduction aux concepts de base | ❌ En cours |
-| TD 2 | Concepts de base | ❌ En cours |
+| TD 1 | Introduction aux concepts de base | ✅|
+| TD 2 | Concepts de base | ✅ |
 
 ---
 
