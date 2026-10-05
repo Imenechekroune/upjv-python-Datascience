@@ -1,7 +1,7 @@
 # Travaux Dirigés - Python & Data Science
 
 **Nom :** Imene Chekroune  
-**Formation :** L3 / M1 Économie, UPJV  
+**Formation :**  M1 Économie, UPJV  
 **Cours :** Python pour la Data Science  
 
 ---
