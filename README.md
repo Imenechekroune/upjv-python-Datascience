@@ -1,28 +1,28 @@
-# Travaux Dirigés - Python & Data Science
+README = """# Python & Data Science — UPJV Amiens
 
-**Nom :** Imene Chekroune  
-**Formation :**  M1 Économie, UPJV  
-**Cours :** Python pour la Data Science  
+**Étudiant·e :** Chekroune imene 
+**Formation :**  M1 Monnaie banque finance assurance 
+**Année :** 2026-2027
 
----
+## Description
 
-## Description du dépôt
-Ce dépôt contient l'ensemble de mes travaux dirigés (TD) réalisés dans le cadre du cours de Python et Data Science sur Google Colab.
+Ce dépôt contient mes travaux dirigés du cours
+Python & Data Science réalisés sur Google Colab.
 
----
-
-## Organisation - Liste des TD
+## Travaux dirigés
 
 | TD | Sujet | Statut |
-|---|---|---|
-| TD 1 | Introduction aux concepts de base | ✅|
-| TD 2 | Concepts de base | ✅ |
-
----
+|----|-------|--------|
+| [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
+| [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
+| TD3 | Les bases de Python | :x: |
 
 ## Crédits
-- **Université :** UPJV Amiens  
-- **Enseignant :** MaxenceGU
+
+Cours de M. Guéry — Faculté d'Économie, UPJV
+"""
+
+
 
 ## Crédits
 
