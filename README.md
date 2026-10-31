@@ -1,4 +1,4 @@
-README = """# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Chekroune imene 
 **Formation :**  M1 Monnaie banque finance assurance 
@@ -30,4 +30,4 @@ Cours de M. Guéry — Faculté d'Économie, UPJV
 Cours de M. Guéry — Faculté d'Économie, UPJV
 """
 
-print(README)
+
