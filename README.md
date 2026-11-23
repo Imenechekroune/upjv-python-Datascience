@@ -20,6 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | TD5 | (td05_enonce.ipynb) | :white_check_mark: |
 | TD5 | (td05_enonce.ipynb) | :white_check_mark: |
 | TD6 | (td06_enonce.ipynb) | :white_check_mark: |
+| TD7| (td06_enonce.ipynb) | :white_check_mark: |
 
 ## Crédits
 
